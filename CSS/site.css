@@ -1,0 +1,33 @@
+body 
+{
+	background-color: rgba(225,225,225);
+}
+
+.navigation
+{
+	margin: 0;
+	background-color: rgba(25,25,25);
+	overflow: hidden;
+	border: 2px solid white;
+}
+
+.navigation a
+{
+	float: left;
+	padding: 5px 5px 5px 5px;
+	color: rgba(255,255,255);
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+	margin: 5px 5px 5px 5px;
+	text-decoration: none;
+}
+
+.navigation a:hover
+{
+	background-color: rgba(0,50,155);
+}
+
+.navigation a.active
+{
+	background-color: rgba(0,150,255);
+}
