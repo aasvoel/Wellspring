@@ -7,7 +7,7 @@ Project: Wellspring Project
 
 ****************
 
-Description of software and assumptions:
+# Description of software and assumptions:
 PHP 8 was used for this project, but it is likely that PHP 7+ would work fine.
 I used Windows & IIS to run this application; however, it should theoretically work just fine in a LAMP stack if needed. 
 For this project, I went ahead and use a $_SESSION variable instead of a database to make it simpler to install.
@@ -15,7 +15,7 @@ I included the files given to me by Wellspring (the PDF for the project, and the
 
 ****************
 
-#Instructions:
+# Instructions:
 1. Go to 'Upload a Table to the Database' page.
 2. Click 'Choose File'.
 3. Select your '.csv' file. 
